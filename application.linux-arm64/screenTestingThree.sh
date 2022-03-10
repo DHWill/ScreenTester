@@ -1,4 +1,4 @@
-#!/bin/sh
+!/bin/sh
 
 APPDIR=$(readlink -f "$0")
 APPDIR=$(dirname "$APPDIR")
